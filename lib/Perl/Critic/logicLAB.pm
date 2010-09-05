@@ -23,7 +23,43 @@ __END__
 
 Perl::Critic::logicLAB - a set of Perl::Critic policies implemented and used by logicLAB
 
+=head1 VERSION
+
+This documentation describes version 0.01
+
 =head1 SYNOPSIS
+
+    % perlcritic --theme logiclab
+
+=head1 DESCRIPTION
+
+=head1 POLICIES
+
+=over
+
+=item * L<Perl::Critic::Policy::logicLAB::ProhibitUseLib>
+
+=item * L<Perl::Critic::Policy::logicLAB::RequireVersionFormat>
+
+=back
+
+=head1 CONFIGURATION
+
+Please see the separate polices for configuration.
+
+=head1 DEPENDENCIES AND REQUIREMENTS
+
+=head1 INCOMPATIBILITIES
+
+=head1 BUGS AND LIMITATIONS
+
+The distribution has no known bugs or limitations.
+
+=head1 BUG REPORTING
+
+Please use Requets Tracker for bug reporting:
+
+    http://rt.cpan.org/NoAuth/Bugs.html?Dist=Perl-Critic-logicLAB
 
 =head1 SEE ALSO
 
