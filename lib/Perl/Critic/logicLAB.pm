@@ -33,7 +33,27 @@ This documentation describes version 0.01
 
 =head1 DESCRIPTION
 
+Perl::Critic::logicLAB is not a distribution of policies, it is more of a
+meta-package, implemented like the L<Task> distributions.
+
+This is not the recommended way of doing things, but it does offer the following
+benefits:
+
+=over
+
+=item * Policies can be released separately
+
+=item * Policies can be released without association with Perl::Critic::logicLAB
+until their value and correctness has been asserted
+
+=item * You can write a meta-package, listing the policies you want on a policy
+by policy level, using the same schema
+
+=back
+
 =head1 POLICIES
+
+Currently Perl::Critic::logicLAB consists of the following policies.
 
 =over
 
@@ -49,7 +69,11 @@ Please see the separate polices for configuration.
 
 =head1 DEPENDENCIES AND REQUIREMENTS
 
+None currently.
+
 =head1 INCOMPATIBILITIES
+
+This distribution holds no known incompatibilities.
 
 =head1 BUGS AND LIMITATIONS
 
