@@ -10,7 +10,7 @@ use strict;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.01';
+    $VERSION = '0.02';
 }
 
 1;
@@ -25,7 +25,7 @@ Perl::Critic::logicLAB - a set of Perl::Critic policies implemented and used by 
 
 =head1 VERSION
 
-This documentation describes version 0.01
+This documentation describes version 0.02
 
 =head1 SYNOPSIS
 
