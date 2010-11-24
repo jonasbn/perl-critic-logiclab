@@ -1,0 +1,23 @@
+Changes file for Perl::Critic::logicLAB
+
+$Id$
+
+Version 0.03, 24. Nov. 2011, update recommended
+
+- Implemented custom build system
+  http://logiclab.jira.com/browse/PCLL-5 [PCLL-5]
+
+
+Version 0.02, 14. Sep. 2011, update not necessary
+                                
+-  Missing tests
+   http://logiclab.jira.com/browse/PCLL-4 [PCLL-4]
+
+
+Version 0.01, 7. Sep. 2011 - Initial release
+
+- Wrote documentation
+  http://logiclab.jira.com/browse/PCLL-2 [PCLL-2]
+
+- Implementation of Build.PL using the Task scheme
+  http://logiclab.jira.com/browse/PCLL-1 [PCLL-1]
