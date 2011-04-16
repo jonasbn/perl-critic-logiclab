@@ -53,67 +53,15 @@ by policy level, using the same schema
 
 =head1 POLICIES
 
-Currently Perl::Critic::logicLAB consists of the following policies.
-
 =over
 
-=item * L<Perl::Critic::Policy::logicLAB::ProhibitUseLib>
+=item * L<Perl::Critic::Policy::logicLAB::ProhibitShellDispatch|Perl::Critic::Policy::logicLAB::ProhibitShellDispatch>
 
-=item * L<Perl::Critic::Policy::logicLAB::RequireVersionFormat>
+=item * L<Perl::Critic::Policy::logicLAB::ProhibitUseLib|Perl::Critic::Policy::logicLAB::ProhibitUseLib>
 
-=back
-
-=head1 CONFIGURATION
-
-Please see the separate polices for configuration.
-
-=head1 DEPENDENCIES AND REQUIREMENTS
-
-None currently.
-
-=head1 INCOMPATIBILITIES
-
-This distribution holds no known incompatibilities.
-
-=head1 BUGS AND LIMITATIONS
-
-The distribution has no known bugs or limitations.
-
-=head1 BUG REPORTING
-
-Please use Requets Tracker for bug reporting:
-
-    http://rt.cpan.org/NoAuth/Bugs.html?Dist=Perl-Critic-logicLAB
-
-=head1 SEE ALSO
-
-=over
-
-=item * L<Perl::Critic>
-
-=item * L<Task>
+=item * L<Perl::Critic::Policy::logicLAB::RequireVersionFormat|Perl::Critic::Policy::logicLAB::RequireVersionFormat>
 
 =back
-
-=head1 RESOURCES
-
-=over
-
-=item * Homepage/Wiki: L<http://logiclab.jira.com/wiki/display/PCLL/Home>
-
-=item * Bugtracker: L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Perl-Critic-logicLAB>
-
-=item * Repository: L<http://logicLAB.jira.com/svn/PCLL>
-
-=item * Project Changelog: L<http://logiclab.jira.com/browse/PCLL#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel>
-
-=item * Project Site: L<http://logicLAB.jira.com/browse/PCLL>
-
-=back
-
-=head1 AUTHOR
-
-Jonas B. Nielsen (jonasbn), C<< <jonasbn@cpan.org> >>
 
 =head1 COPYRIGHT & LICENSE
 
