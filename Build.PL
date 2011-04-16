@@ -16,6 +16,7 @@ my $build = Module::Build::Bundle->new(
     requires      => {
 		'Perl::Critic::Policy::logicLAB::ProhibitUseLib' => '0',
 		'Perl::Critic::Policy::logicLAB::RequireVersionFormat' => '0',
+		'Perl::Critic::Policy::logicLAB::ProhibitShellDispatch' => '0',
     },
     meta_merge => {
         resources => {
