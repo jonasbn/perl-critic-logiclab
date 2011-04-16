@@ -25,7 +25,7 @@ Perl::Critic::logicLAB - a set of Perl::Critic policies implemented and used by 
 
 =head1 VERSION
 
-This documentation describes version 0.02
+This documentation describes version 0.04
 
 =head1 SYNOPSIS
 
@@ -65,7 +65,7 @@ by policy level, using the same schema
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2010 Jonas B. Nielsen (jonasbn), All Rights Reserved.
+Copyright 2010-2011 Jonas B. Nielsen (jonasbn), All Rights Reserved.
 
 This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
