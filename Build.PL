@@ -6,7 +6,7 @@ use strict;
 use warnings;
 use Module::Build::Bundle;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 my $build = Module::Build::Bundle->new(
     dist_author   => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
@@ -17,6 +17,7 @@ my $build = Module::Build::Bundle->new(
         'Perl::Critic::Policy::logicLAB::ProhibitUseLib'        => '0',
         'Perl::Critic::Policy::logicLAB::RequireVersionFormat'  => '0',
         'Perl::Critic::Policy::logicLAB::ProhibitShellDispatch' => '0',
+        'Perl::Critic::Policy::logicLAB::RequireSheBang'        => '0',
     },
     meta_merge => {
         resources => {

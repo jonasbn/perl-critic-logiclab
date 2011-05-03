@@ -6,6 +6,20 @@ Project site changelog:
 
 http://logicLAB.jira.com/browse/PCLL#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
 
+Version 0.05, 3. May. 2011, update not necessary 
+
+- Added new policy: 
+  Perl::Critic::Policy::logicLAB::RequireSheBang
+  http://logiclab.jira.com/browse/PCLL-7 [PCLL-7]
+
+
+Version 0.04, 16. April. 2011, update not necessary 
+
+- Added new policy: 
+  Perl::Critic::Policy::logicLAB::ProhibitShellDispatch
+  http://logiclab.jira.com/browse/PCLL-6 [PCLL-6]
+
+
 Version 0.03, 24. Nov. 2011, update recommended
 
 - Implemented custom build system
