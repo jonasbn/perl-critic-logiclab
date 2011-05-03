@@ -10,7 +10,7 @@ use strict;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.04';
+    $VERSION = '0.05';
 }
 
 1;
@@ -25,7 +25,7 @@ Perl::Critic::logicLAB - a set of Perl::Critic policies implemented and used by 
 
 =head1 VERSION
 
-This documentation describes version 0.04
+This documentation describes version 0.05
 
 =head1 SYNOPSIS
 
@@ -59,7 +59,17 @@ by policy level, using the same schema
 
 =item * L<Perl::Critic::Policy::logicLAB::ProhibitUseLib|Perl::Critic::Policy::logicLAB::ProhibitUseLib>
 
+=item * L<Perl::Critic::Policy::logicLAB::RequireSheBang|Perl::Critic::Policy::logicLAB::RequireSheBang>
+
 =item * L<Perl::Critic::Policy::logicLAB::RequireVersionFormat|Perl::Critic::Policy::logicLAB::RequireVersionFormat>
+
+=back
+
+=head1 SEE ALSO
+
+=over
+
+=item * L<http://logiclab.jira.com/wiki/display/PCLL/Home>
 
 =back
 
