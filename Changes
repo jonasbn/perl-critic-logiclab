@@ -6,36 +6,61 @@ Project site changelog:
 
 http://logicLAB.jira.com/browse/PCLL#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
 
-Version 0.05, 3. May. 2011, update not necessary 
+0.06 2013-07-27
+
+- Adding a Changes file as part of my Questhub quest adhering to the standard
+  described in: CPAN::Changes::Spec [PCLL-8]
+
+  Quest: http://questhub.io/realm/perl/quest/51f0fd8e18ba7dcf4b000040
+  Spec: https://metacpan.org/module/CPAN::Changes::Spec
+  
+  https://logiclab.jira.com/browse/PCLL-8
+
+- Added creation of traditional Makefile.PL to Build.PL [PCLL-9]
+
+  https://logiclab.jira.com/browse/PCLL-9
+
+
+0.05 2011-05-03
+
+- Update not necessary
 
 - Added new policy: 
   Perl::Critic::Policy::logicLAB::RequireSheBang
   http://logiclab.jira.com/browse/PCLL-7 [PCLL-7]
 
 
-Version 0.04, 16. April. 2011, update not necessary 
+0.04 2011-04-16
+
+- Update not necessary
 
 - Added new policy: 
   Perl::Critic::Policy::logicLAB::ProhibitShellDispatch
   http://logiclab.jira.com/browse/PCLL-6 [PCLL-6]
 
 
-Version 0.03, 24. Nov. 2010, update recommended
+0.03 2010-11-24
+
+- Update recommended
 
 - Implemented custom build system
   http://logiclab.jira.com/browse/PCLL-5 [PCLL-5]
 
 
-Version 0.02, 14. Sep. 2010, update not necessary
+0.02 2010-09-14
+
+- Update not necessary
                                 
 -  Missing tests
    http://logiclab.jira.com/browse/PCLL-4 [PCLL-4]
 
 
-Version 0.01, 7. Sep. 2010 - Initial release
+0.01 2010-09-07
 
 - Wrote documentation
   http://logiclab.jira.com/browse/PCLL-2 [PCLL-2]
 
 - Implementation of Build.PL using the Task scheme
   http://logiclab.jira.com/browse/PCLL-1 [PCLL-1]
+  
+- Initial release
