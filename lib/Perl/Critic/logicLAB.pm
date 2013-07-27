@@ -10,7 +10,7 @@ use strict;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '0.05';
+    $VERSION = '0.06';
 }
 
 1;
@@ -62,14 +62,6 @@ by policy level, using the same schema
 =item * L<Perl::Critic::Policy::logicLAB::RequireSheBang|Perl::Critic::Policy::logicLAB::RequireSheBang>
 
 =item * L<Perl::Critic::Policy::logicLAB::RequireVersionFormat|Perl::Critic::Policy::logicLAB::RequireVersionFormat>
-
-=back
-
-=head1 SEE ALSO
-
-=over
-
-=item * L<http://logiclab.jira.com/wiki/display/PCLL/Home>
 
 =back
 
