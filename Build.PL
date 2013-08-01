@@ -4,11 +4,11 @@
 
 use strict;
 use warnings;
-use Module::Build::Bundle;
+use Module::Build;
 
-our $VERSION = '0.06';
+our $VERSION = '0.07';
 
-my $build = Module::Build::Bundle->new(
+my $build = Module::Build->new(
     dist_author   => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
     module_name   => 'Perl::Critic::logicLAB',
     license       => 'artistic',
@@ -33,7 +33,5 @@ my $build = Module::Build::Bundle->new(
         }
     },
 );
-
-$build->notes( 'section_header' => 'POLICIES' );
 
 $build->create_build_script();
