@@ -6,7 +6,18 @@ Project site changelog:
 
 http://logicLAB.jira.com/browse/PCLL#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
 
+0.07 2013-08-01
+
+- Maintenance release, update recommended, since 0.06 distribution was broken
+
+- Fixing build system [PCLL-12]
+
+  https://logiclab.jira.com/browse/PCLL-12
+
+
 0.06 2013-07-27
+
+- Maintenance release, update not necessary
 
 - Adding a Changes file as part of my Questhub quest adhering to the standard
   described in: CPAN::Changes::Spec [PCLL-8]
