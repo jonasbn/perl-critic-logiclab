@@ -6,6 +6,14 @@ Project site changelog:
 
 http://logicLAB.jira.com/browse/PCLL#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
 
+HEAD
+
+- Added changes.t automatic assertion of the integrity of the Changes file, 
+  see also PCLL-8 [PCLL-13]
+
+  https://logiclab.jira.com/browse/PCLL-13
+
+
 0.07 2013-08-01
 
 - Maintenance release, update recommended, since 0.06 distribution was broken
