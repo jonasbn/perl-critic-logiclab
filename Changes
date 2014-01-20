@@ -8,6 +8,10 @@ http://logicLAB.jira.com/browse/PCLL#selectedTab=com.atlassian.jira.plugin.syste
 
 HEAD
 
+- Added warnings to make CPANTS happy
+
+- Specified perl version to be 5.6.0
+
 - Added changes.t automatic assertion of the integrity of the Changes file, 
   see also PCLL-8 [PCLL-13]
 

@@ -6,12 +6,10 @@ package Perl::Critic::logicLAB;
 # http://search.cpan.org/dist/Task/lib/Task.pm
 
 use strict;
+use warnings;
+use 5.6.0;
 
-use vars qw{$VERSION};
-
-BEGIN {
-    $VERSION = '0.07';
-}
+our $VERSION = '0.07';
 
 1;
 
