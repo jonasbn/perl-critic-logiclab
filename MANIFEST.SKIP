@@ -51,3 +51,6 @@
 
 # Avoid project specific files
 \.komodoproject
+
+# Github - Travis integration
+\.travis\.yml
