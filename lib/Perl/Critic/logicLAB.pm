@@ -23,7 +23,7 @@ Perl::Critic::logicLAB - a set of Perl::Critic policies implemented and used by 
 
 =head1 VERSION
 
-This documentation describes version 0.05
+This documentation describes version 0.08
 
 =head1 SYNOPSIS
 
@@ -61,11 +61,15 @@ by policy level, using the same schema
 
 =item * L<Perl::Critic::Policy::logicLAB::RequireVersionFormat|Perl::Critic::Policy::logicLAB::RequireVersionFormat>
 
+=item * L<Perl::Critic::Policy::logicLAB::RequirePackageNamePattern|Perl::Critic::Policy::logicLAB::RequirePackageNamePattern>
+
+=item * L<Perl::Critic::Policy::logicLAB::RequireParamsValidate|Perl::Critic::Policy::logicLAB::RequireParamsValidate>
+
 =back
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2010-2011 Jonas B. Nielsen (jonasbn), All Rights Reserved.
+Copyright 2010-2014 Jonas B. Nielsen (jonasbn), All Rights Reserved.
 
 This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.

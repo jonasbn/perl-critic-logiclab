@@ -6,13 +6,23 @@ Project site changelog:
 
 http://logicLAB.jira.com/browse/PCLL#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
 
-HEAD
+0.08 2014-02-28
+
+- Feature release, update not required
+
+- Added Perl::Critic::Policy::logicLAB::RequireParamsValidate [PCLL-15]
+
+  https://logiclab.jira.com/browse/PCLL-15
+
+- Added Perl::Critic::Policy::logicLAB::RequirePackageNamePattern [PCLL-14]
+
+  https://logiclab.jira.com/browse/PCLL-14
 
 - Added warnings to make CPANTS happy
 
 - Specified perl version to be 5.6.0
 
-- Added changes.t automatic assertion of the integrity of the Changes file, 
+- Added changes.t automatic assertion of the integrity of the Changes file,
   see also PCLL-8 [PCLL-13]
 
   https://logiclab.jira.com/browse/PCLL-13
@@ -29,14 +39,14 @@ HEAD
 
 0.06 2013-07-27
 
-- Maintenance release, update not necessary
+- Maintenance release, update required
 
 - Adding a Changes file as part of my Questhub quest adhering to the standard
   described in: CPAN::Changes::Spec [PCLL-8]
 
   Quest: http://questhub.io/realm/perl/quest/51f0fd8e18ba7dcf4b000040
   Spec: https://metacpan.org/module/CPAN::Changes::Spec
-  
+
   https://logiclab.jira.com/browse/PCLL-8
 
 - Added creation of traditional Makefile.PL to Build.PL [PCLL-9]
@@ -46,18 +56,18 @@ HEAD
 
 0.05 2011-05-03
 
-- Update not necessary
+- Update not required
 
-- Added new policy: 
+- Added new policy:
   Perl::Critic::Policy::logicLAB::RequireSheBang
   http://logiclab.jira.com/browse/PCLL-7 [PCLL-7]
 
 
 0.04 2011-04-16
 
-- Update not necessary
+- Update not required
 
-- Added new policy: 
+- Added new policy:
   Perl::Critic::Policy::logicLAB::ProhibitShellDispatch
   http://logiclab.jira.com/browse/PCLL-6 [PCLL-6]
 
@@ -72,8 +82,8 @@ HEAD
 
 0.02 2010-09-14
 
-- Update not necessary
-                                
+- Update not required
+
 -  Missing tests
    http://logiclab.jira.com/browse/PCLL-4 [PCLL-4]
 
@@ -85,5 +95,5 @@ HEAD
 
 - Implementation of Build.PL using the Task scheme
   http://logiclab.jira.com/browse/PCLL-1 [PCLL-1]
-  
+
 - Initial release

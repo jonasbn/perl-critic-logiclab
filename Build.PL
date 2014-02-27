@@ -15,11 +15,12 @@ my $build = Module::Build->new(
     create_makefile_pl => 'traditional',
     create_readme => 1,
     requires      => {
-        'Perl::Critic::Policy::logicLAB::ProhibitUseLib'        => '0',
-        'Perl::Critic::Policy::logicLAB::RequireVersionFormat'  => '0',
-        'Perl::Critic::Policy::logicLAB::ProhibitShellDispatch' => '0',
-        'Perl::Critic::Policy::logicLAB::RequireSheBang'        => '0',
-        'perl'                                                  => '5.6.0',
+        'Perl::Critic::Policy::logicLAB::ProhibitUseLib'            => '0',
+        'Perl::Critic::Policy::logicLAB::RequireVersionFormat'      => '0',
+        'Perl::Critic::Policy::logicLAB::ProhibitShellDispatch'     => '0',
+        'Perl::Critic::Policy::logicLAB::RequireSheBang'            => '0',
+        'Perl::Critic::Policy::logicLAB::RequirePackageNamePattern' => '0',
+        'perl'                                                      => '5.6.0',
     },
     meta_merge => {
         resources => {
