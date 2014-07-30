@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Module::Build;
 
-our $VERSION = '0.07';
+our $VERSION = '0.08';
 
 my $build = Module::Build->new(
     dist_author   => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
