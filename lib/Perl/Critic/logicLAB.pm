@@ -67,6 +67,14 @@ by policy level, using the same schema
 
 =back
 
+=head1 AUTHOR
+
+=over
+
+=item * Jonas B. Nielsen, jonasbn C<< <jonasbn@cpan.org> >>
+
+=back
+
 =head1 COPYRIGHT & LICENSE
 
 Copyright 2010-2014 Jonas B. Nielsen (jonasbn), All Rights Reserved.
