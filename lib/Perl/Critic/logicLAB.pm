@@ -3,7 +3,7 @@ package Perl::Critic::logicLAB;
 # $Id$
 
 # Courtesy of Adam Kennedy
-# http://search.cpan.org/dist/Task/lib/Task.pm
+# https://metacpan.org/pod/Task
 
 use strict;
 use warnings;
