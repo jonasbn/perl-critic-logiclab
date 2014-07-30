@@ -1,7 +1,5 @@
 package Perl::Critic::logicLAB;
 
-# $Id$
-
 # Courtesy of Adam Kennedy
 # https://metacpan.org/pod/Task
 
