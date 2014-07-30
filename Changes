@@ -6,13 +6,22 @@ Project site changelog:
 
 http://logicLAB.jira.com/browse/PCLL#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
 
-0.08 2014-02-27
+HEAD
 
 - Feature release, update not required
 
+- Added Perl::Critic::Policy::logicLAB::ModuleBlacklist
+
 - Added Perl::Critic::Policy::logicLAB::RequireParamsValidate [PCLL-15]
+  This was wrongfully communicated as being a part of the 0.08 release
+  which was wrong, so it is included in the following release instead
 
   https://logiclab.jira.com/browse/PCLL-15
+
+
+0.08 2014-02-27
+
+- Feature release, update not required
 
 - Added Perl::Critic::Policy::logicLAB::RequirePackageNamePattern [PCLL-14]
 

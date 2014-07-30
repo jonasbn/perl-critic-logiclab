@@ -20,6 +20,8 @@ my $build = Module::Build->new(
         'Perl::Critic::Policy::logicLAB::ProhibitShellDispatch'     => '0',
         'Perl::Critic::Policy::logicLAB::RequireSheBang'            => '0',
         'Perl::Critic::Policy::logicLAB::RequirePackageNamePattern' => '0',
+        'Perl::Critic::Policy::logicLAB::RequireParamsValidate'     => '0',
+        'Perl::Critic::Policy::logicLAB::ModuleBlacklist'           => '0',
         'perl'                                                      => '5.6.0',
     },
     meta_merge => {
