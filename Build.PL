@@ -1,7 +1,5 @@
 # Build.PL for Perl::Critic::logicLAB
 
-# $Id$
-
 use strict;
 use warnings;
 use Module::Build;
