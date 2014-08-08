@@ -1,9 +1,9 @@
 NAME
-    Perl::Critic::logicLAB - a set of Perl::Critic policies implemented and
-    used by logicLAB
+    Perl::Critic::logicLAB - Perl::Critic policies implemented and used by
+    logicLAB
 
 VERSION
-    This documentation describes version 0.08
+    This documentation describes version 0.09
 
 SYNOPSIS
         % perlcritic --theme logiclab
@@ -36,6 +36,11 @@ POLICIES
     *   Perl::Critic::Policy::logicLAB::RequirePackageNamePattern
 
     *   Perl::Critic::Policy::logicLAB::RequireParamsValidate
+
+    *   Perl::Critic::Policy::logicLAB::ModuleBlacklist
+
+AUTHOR
+    *   Jonas B. Nielsen, jonasbn "<jonasbn@cpan.org>"
 
 COPYRIGHT & LICENSE
     Copyright 2010-2014 Jonas B. Nielsen (jonasbn), All Rights Reserved.
