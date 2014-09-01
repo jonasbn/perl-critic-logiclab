@@ -15,6 +15,14 @@ __END__
 
 =pod
 
+=begin markdown
+
+[![CPAN version](https://badge.fury.io/pl/Perl-Critic-logicLAB.svg)](http://badge.fury.io/pl/Perl-Critic-logicLAB)
+[![Build Status](https://travis-ci.org/jonasbn/pcll.svg?branch=master)](https://travis-ci.org/jonasbn/pcll)
+[![Coverage Status](https://coveralls.io/repos/jonasbn/pcll/badge.png)](https://coveralls.io/r/jonasbn/pcll)
+
+=end markdown
+
 =head1 NAME
 
 Perl::Critic::logicLAB - Perl::Critic policies implemented and used by logicLAB
