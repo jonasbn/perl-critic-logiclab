@@ -7,7 +7,7 @@ use strict;
 use warnings;
 use 5.006;
 
-our $VERSION = '0.09';
+our $VERSION = '0.10';
 
 1;
 
@@ -18,8 +18,7 @@ __END__
 =begin markdown
 
 [![CPAN version](https://badge.fury.io/pl/Perl-Critic-logicLAB.svg)](http://badge.fury.io/pl/Perl-Critic-logicLAB)
-[![Build Status](https://travis-ci.org/jonasbn/pcll.svg?branch=master)](https://travis-ci.org/jonasbn/pcll)
-[![Coverage Status](https://coveralls.io/repos/jonasbn/pcll/badge.png)](https://coveralls.io/r/jonasbn/pcll)
+[![Dist::Zilla Action](https://github.com/jonasbn/perl-critic-logiclab/actions/workflows/ci.yml/badge.svg)](https://github.com/jonasbn/perl-critic-logiclab/actions/workflows/ci.yml)
 
 =end markdown
 
@@ -29,7 +28,7 @@ Perl::Critic::logicLAB - Perl::Critic policies implemented and used by logicLAB
 
 =head1 VERSION
 
-This documentation describes version 0.09
+This documentation describes version 0.10
 
 =head1 SYNOPSIS
 

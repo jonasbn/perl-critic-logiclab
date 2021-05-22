@@ -1,6 +1,5 @@
 [![CPAN version](https://badge.fury.io/pl/Perl-Critic-logicLAB.svg)](http://badge.fury.io/pl/Perl-Critic-logicLAB)
-[![Build Status](https://travis-ci.org/jonasbn/pcll.svg?branch=master)](https://travis-ci.org/jonasbn/pcll)
-[![Coverage Status](https://coveralls.io/repos/jonasbn/pcll/badge.png)](https://coveralls.io/r/jonasbn/pcll)
+[![Dist::Zilla Action](https://github.com/jonasbn/perl-critic-logiclab/actions/workflows/ci.yml/badge.svg)](https://github.com/jonasbn/perl-critic-logiclab/actions/workflows/ci.yml)
 
 # NAME
 
@@ -8,7 +7,7 @@ Perl::Critic::logicLAB - Perl::Critic policies implemented and used by logicLAB
 
 # VERSION
 
-This documentation describes version 0.09
+This documentation describes version 0.10
 
 # SYNOPSIS
 
@@ -35,7 +34,7 @@ benefits:
 - [Perl::Critic::Policy::logicLAB::RequirePackageNamePattern](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequirePackageNamePattern)
 - [Perl::Critic::Policy::logicLAB::RequireParamsValidate](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequireParamsValidate)
 - [Perl::Critic::Policy::logicLAB::ModuleBlacklist](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AModuleBlacklist)
-- [Perl::Critic::Policy::RegularExpressions::Requiredefault](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3ARegularExpressions%3A%3ARequiredefault)
+- [Perl::Critic::Policy::RegularExpressions::RequireDefault](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3ARegularExpressions%3A%3ARequireDefault)
 
 # BUGS AND LIMITATIONS
 
