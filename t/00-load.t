@@ -1,7 +1,5 @@
 #!/usr/bin/perl -w
 
-# $Id$
-
 #Courtesy of Ovid
 #Ref: http://use.perl.org/~Ovid/journal/37797
 
