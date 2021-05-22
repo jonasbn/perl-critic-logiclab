@@ -30,13 +30,13 @@ by policy level, using the same schema
 
 # POLICIES
 
-- [Perl::Critic::Policy::logicLAB::ProhibitShellDispatch](https://metacpan.org/pod/Perl::Critic::Policy::logicLAB::ProhibitShellDispatch)
-- [Perl::Critic::Policy::logicLAB::ProhibitUseLib](https://metacpan.org/pod/Perl::Critic::Policy::logicLAB::ProhibitUseLib)
-- [Perl::Critic::Policy::logicLAB::RequireSheBang](https://metacpan.org/pod/Perl::Critic::Policy::logicLAB::RequireSheBang)
-- [Perl::Critic::Policy::logicLAB::RequireVersionFormat](https://metacpan.org/pod/Perl::Critic::Policy::logicLAB::RequireVersionFormat)
-- [Perl::Critic::Policy::logicLAB::RequirePackageNamePattern](https://metacpan.org/pod/Perl::Critic::Policy::logicLAB::RequirePackageNamePattern)
-- [Perl::Critic::Policy::logicLAB::RequireParamsValidate](https://metacpan.org/pod/Perl::Critic::Policy::logicLAB::RequireParamsValidate)
-- [Perl::Critic::Policy::logicLAB::ModuleBlacklist](https://metacpan.org/pod/Perl::Critic::Policy::logicLAB::ModuleBlacklist)
+- [Perl::Critic::Policy::logicLAB::ProhibitShellDispatch](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AProhibitShellDispatch)
+- [Perl::Critic::Policy::logicLAB::ProhibitUseLib](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AProhibitUseLib)
+- [Perl::Critic::Policy::logicLAB::RequireSheBang](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequireSheBang)
+- [Perl::Critic::Policy::logicLAB::RequireVersionFormat](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequireVersionFormat)
+- [Perl::Critic::Policy::logicLAB::RequirePackageNamePattern](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequirePackageNamePattern)
+- [Perl::Critic::Policy::logicLAB::RequireParamsValidate](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequireParamsValidate)
+- [Perl::Critic::Policy::logicLAB::ModuleBlacklist](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AModuleBlacklist)
 
 # AUTHOR
 
