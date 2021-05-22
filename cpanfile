@@ -1,4 +1,4 @@
-requires 'Perl::Critic::Policy::logicLAB::ProhibitShellDispatch'
+requires 'Perl::Critic::Policy::logicLAB::ProhibitShellDispatch';
 requires 'Perl::Critic::Policy::logicLAB::ProhibitUseLib';
 requires 'Perl::Critic::Policy::logicLAB::RequireSheBang';
 requires 'Perl::Critic::Policy::logicLAB::RequireVersionFormat';
