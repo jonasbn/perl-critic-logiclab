@@ -47,11 +47,9 @@ benefits:
 
 =item * Policies can be released separately
 
-=item * Policies can be released without association with Perl::Critic::logicLAB
-until their value and correctness has been asserted
+=item * Policies can be released without association with Perl::Critic::logicLAB until their value and correctness has been asserted
 
-=item * You can write a meta-package, listing the policies you want on a policy
-by policy level, using the same schema
+=item * You can write a meta-package, listing the policies you want on a policy by policy level, using the same schema
 
 =back
 
@@ -79,13 +77,13 @@ by policy level, using the same schema
 
 =over
 
-=item * Jonas B. Nielsen, jonasbn C<< <jonasbn@cpan.org> >>
+=item * Jonas B., jonasbn C<< <jonasbn@cpan.org> >>
 
 =back
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2010-2014 Jonas B. Nielsen (jonasbn), All Rights Reserved.
+Copyright 2010-2021 Jonas B. (jonasbn), All Rights Reserved.
 
 This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
