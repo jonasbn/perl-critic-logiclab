@@ -23,10 +23,8 @@ This is not the recommended way of doing things, but it does offer the following
 benefits:
 
 - Policies can be released separately
-- Policies can be released without association with Perl::Critic::logicLAB
-until their value and correctness has been asserted
-- You can write a meta-package, listing the policies you want on a policy
-by policy level, using the same schema
+- Policies can be released without association with Perl::Critic::logicLAB until their value and correctness has been asserted
+- You can write a meta-package, listing the policies you want on a policy by policy level, using the same schema
 
 # POLICIES
 
@@ -37,14 +35,21 @@ by policy level, using the same schema
 - [Perl::Critic::Policy::logicLAB::RequirePackageNamePattern](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequirePackageNamePattern)
 - [Perl::Critic::Policy::logicLAB::RequireParamsValidate](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequireParamsValidate)
 - [Perl::Critic::Policy::logicLAB::ModuleBlacklist](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AModuleBlacklist)
+- [Perl::Critic::Policy::RegularExpressions::Requiredefault](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3ARegularExpressions%3A%3ARequiredefault)
+
+# BUGS AND LIMITATIONS
+
+Please report issues via GitHub:
+
+- [GitHub Issues](https://github.com/jonasbn/pcll/issues)
 
 # AUTHOR
 
-- Jonas B. Nielsen, jonasbn `<jonasbn@cpan.org>`
+- Jonas B., jonasbn `<jonasbn@cpan.org>`
 
 # COPYRIGHT & LICENSE
 
-Copyright 2010-2014 Jonas B. Nielsen (jonasbn), All Rights Reserved.
+Copyright 2010-2021 Jonas B. (jonasbn), All Rights Reserved.
 
 This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
