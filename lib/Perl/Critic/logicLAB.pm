@@ -73,6 +73,16 @@ benefits:
 
 =back
 
+=head1 BUGS AND LIMITATIONS
+
+Please report issues via GitHub:
+
+=over
+
+=item * L<GitHub Issues|https://github.com/jonasbn/perl-date-holidays-super/issues>
+
+=back
+
 =head1 AUTHOR
 
 =over
