@@ -71,6 +71,8 @@ benefits:
 
 =item * L<Perl::Critic::Policy::logicLAB::ModuleBlacklist|Perl::Critic::Policy::logicLAB::ModuleBlacklist>
 
+=item * L<Perl::Critic::Policy::RegularExpressions::Requiredefault|Perl::Critic::Policy::RegularExpressions::Requiredefault>
+
 =back
 
 =head1 BUGS AND LIMITATIONS
@@ -79,7 +81,7 @@ Please report issues via GitHub:
 
 =over
 
-=item * L<GitHub Issues|https://github.com/jonasbn/perl-date-holidays-super/issues>
+=item * L<GitHub Issues|https://github.com/jonasbn/pcll/issues>
 
 =back
 
