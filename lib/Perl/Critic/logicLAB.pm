@@ -5,7 +5,7 @@ package Perl::Critic::logicLAB;
 
 use strict;
 use warnings;
-use 5.6.0;
+use 5.006;
 
 our $VERSION = '0.09';
 
