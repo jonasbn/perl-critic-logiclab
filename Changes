@@ -1,5 +1,11 @@
 Change log for Perl::Critic::logicLAB
 
+0.10 2021-05-22, feature release, update not required
+
+- Added Perl::Critic::Policy::RegularExpressions::Requiredefault
+
+- Migrated to Dist::Zilla as build system
+
 0.09 2014.08.08, feature release, update not required
 
 - Added Perl::Critic::Policy::logicLAB::ModuleBlacklist
