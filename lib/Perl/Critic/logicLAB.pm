@@ -71,7 +71,7 @@ benefits:
 
 =item * L<Perl::Critic::Policy::logicLAB::ModuleBlacklist|Perl::Critic::Policy::logicLAB::ModuleBlacklist>
 
-=item * L<Perl::Critic::Policy::RegularExpressions::Requiredefault|Perl::Critic::Policy::RegularExpressions::Requiredefault>
+=item * L<Perl::Critic::Policy::RegularExpressions::RequireDefault|Perl::Critic::Policy::RegularExpressions::RequireDefault>
 
 =back
 

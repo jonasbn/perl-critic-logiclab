@@ -5,7 +5,7 @@ requires 'Perl::Critic::Policy::logicLAB::RequireVersionFormat';
 requires 'Perl::Critic::Policy::logicLAB::RequirePackageNamePattern';
 requires 'Perl::Critic::Policy::logicLAB::RequireParamsValidate';
 requires 'Perl::Critic::Policy::logicLAB::ModuleBlacklist';
-requires 'Perl::Critic::Policy::RegularExpressions::Requiredefault';
+requires 'Perl::Critic::Policy::RegularExpressions::RequireDefault';
 
 requires 'perl', '5.006';
 
