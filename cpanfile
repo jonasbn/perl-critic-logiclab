@@ -1,11 +1,12 @@
-requires 'Perl::Critic::Policy::Miscellanea::ProhibitUseLib';
-requires 'Perl::Critic::Policy::Module::RequireVersionFormat';
-requires 'Perl::Critic::Policy::BuiltinFunctions::ProhibitShellDispatch';
-requires 'Perl::Critic::Policy::CodeLayout::RequireSheBang';
-requires 'Perl::Critic::Policy::Module::RequirePackageNamePattern';
+requires 'Perl::Critic::Policy::logicLAB::ProhibitShellDispatch'
+requires 'Perl::Critic::Policy::logicLAB::ProhibitUseLib';
+requires 'Perl::Critic::Policy::logicLAB::RequireSheBang';
+requires 'Perl::Critic::Policy::logicLAB::RequireVersionFormat';
+requires 'Perl::Critic::Policy::logicLAB::RequirePackageNamePattern';
 requires 'Perl::Critic::Policy::logicLAB::RequireParamsValidate';
-requires 'Perl::Critic::Policy::Module::ModuleBlacklist';
+requires 'Perl::Critic::Policy::logicLAB::ModuleBlacklist';
 requires 'Perl::Critic::Policy::RegularExpressions::Requiredefault';
+
 requires 'perl', '5.006';
 
 on 'build', sub {
