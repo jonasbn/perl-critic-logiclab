@@ -56,6 +56,8 @@ benefits:
 
 =over
 
+=item * L<Perl::Critic::Policy::InputOutput::ProhibitHighPrecedentLogicalOperatorErrorHandling|Perl::Critic::Policy::InputOutput::ProhibitHighPrecedentLogicalOperatorErrorHandling>
+
 =item * L<Perl::Critic::Policy::logicLAB::ProhibitShellDispatch|Perl::Critic::Policy::logicLAB::ProhibitShellDispatch>
 
 =item * L<Perl::Critic::Policy::logicLAB::ProhibitUseLib|Perl::Critic::Policy::logicLAB::ProhibitUseLib>
