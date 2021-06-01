@@ -1,6 +1,6 @@
 # Change log for Perl::Critic::logicLAB
 
-## 0.10 2021-05-22, feature release, update not required
+## 0.10 2021-06-01, feature release, update not required
 
 - Added [Perl::Critic::Policy::RegularExpressions::RequireDefault](https://metacpan.org/release/https://metacpan.org/release/Perl-Critic-Policy-InputOutput-ProhibitHighPrecedentLogicalOperatorErrorHandling)
 

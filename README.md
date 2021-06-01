@@ -27,6 +27,7 @@ benefits:
 
 # POLICIES
 
+- [Perl::Critic::Policy::InputOutput::ProhibitHighPrecedentLogicalOperatorErrorHandling](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AInputOutput%3A%3AProhibitHighPrecedentLogicalOperatorErrorHandling)
 - [Perl::Critic::Policy::logicLAB::ProhibitShellDispatch](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AProhibitShellDispatch)
 - [Perl::Critic::Policy::logicLAB::ProhibitUseLib](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AProhibitUseLib)
 - [Perl::Critic::Policy::logicLAB::RequireSheBang](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequireSheBang)
