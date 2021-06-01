@@ -7,7 +7,7 @@ Perl::Critic::logicLAB - Perl::Critic policies implemented and used by logicLAB
 
 # VERSION
 
-This documentation describes version 0.10
+This documentation describes version 0.11
 
 # SYNOPSIS
 
@@ -41,11 +41,16 @@ benefits:
 
 Please report issues via GitHub:
 
-- [GitHub Issues](https://github.com/jonasbn/pcll/issues)
+- [GitHub Issues](https://github.com/jonasbn/perl-critic-logiclab/issues)
 
 # AUTHOR
 
 - Jonas B., jonasbn `<jonasbn@cpan.org>`
+
+# ACKNOWLEDGEMENTS
+
+- Karen Etheridge (ETHER)
+- Neil Bowers (NEILB)
 
 # COPYRIGHT & LICENSE
 

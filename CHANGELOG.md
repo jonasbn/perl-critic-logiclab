@@ -1,8 +1,20 @@
 # Change log for Perl::Critic::logicLAB
 
-## 0.10 2021-06-01, feature release, update not required
+## 0.11 2021-06-01, feature release, update not required
 
-- Added [Perl::Critic::Policy::RegularExpressions::RequireDefault](https://metacpan.org/release/https://metacpan.org/release/Perl-Critic-Policy-InputOutput-ProhibitHighPrecedentLogicalOperatorErrorHandling)
+- Added [Perl::Critic::Policy::InputOutput::ProhibitHighPrecedentLogicalOperatorErrorHandling](https://metacpan.org/release/Perl-Critic-Policy-InputOutput-ProhibitHighPrecedentLogicalOperatorErrorHandling)
+
+- Improvements to [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla) config, only [ExtUtils::MakeMaker](https://metacpan.org/pod/ExtUtils::MakeMaker) supported via [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla) now. [Module::Build](https://metacpan.org/pod/Module::Build) support having been removed
+
+- See [the article by Neil Bowers](https://neilb.org/2015/05/18/two-build-files-considered-harmful.html) (NEILB) on the topic.
+
+- Thanks to Karen Etheridge (ETHER) for information and link to the mentioned article
+
+- Removed test of Changes file, since the change log has been ported to Markdown
+
+## 0.10 2021-05-22, feature release, update not required
+
+- Added [Perl::Critic::Policy::RegularExpressions::RequireDefault](https://metacpan.org/pod/Perl::Critic::Policy::RegularExpressions::RequireDefault)
 
 - Migrated to Dist::Zilla as build system
 

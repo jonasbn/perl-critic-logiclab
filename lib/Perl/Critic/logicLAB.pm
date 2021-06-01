@@ -7,7 +7,7 @@ use strict;
 use warnings;
 use 5.006;
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 1;
 
@@ -28,7 +28,7 @@ Perl::Critic::logicLAB - Perl::Critic policies implemented and used by logicLAB
 
 =head1 VERSION
 
-This documentation describes version 0.10
+This documentation describes version 0.11
 
 =head1 SYNOPSIS
 
@@ -82,7 +82,7 @@ Please report issues via GitHub:
 
 =over
 
-=item * L<GitHub Issues|https://github.com/jonasbn/pcll/issues>
+=item * L<GitHub Issues|https://github.com/jonasbn/perl-critic-logiclab/issues>
 
 =back
 
@@ -91,6 +91,16 @@ Please report issues via GitHub:
 =over
 
 =item * Jonas B., jonasbn C<< <jonasbn@cpan.org> >>
+
+=back
+
+=head1 ACKNOWLEDGEMENTS
+
+=over
+
+=item * Karen Etheridge (ETHER)
+
+=item * Neil Bowers (NEILB)
 
 =back
 
