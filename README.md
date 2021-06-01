@@ -7,7 +7,7 @@ Perl::Critic::logicLAB - Perl::Critic policies implemented and used by logicLAB
 
 # VERSION
 
-This documentation describes version 0.10
+This documentation describes version 0.11
 
 # SYNOPSIS
 
@@ -27,6 +27,7 @@ benefits:
 
 # POLICIES
 
+- [Perl::Critic::Policy::InputOutput::ProhibitHighPrecedentLogicalOperatorErrorHandling](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AInputOutput%3A%3AProhibitHighPrecedentLogicalOperatorErrorHandling)
 - [Perl::Critic::Policy::logicLAB::ProhibitShellDispatch](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AProhibitShellDispatch)
 - [Perl::Critic::Policy::logicLAB::ProhibitUseLib](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3AProhibitUseLib)
 - [Perl::Critic::Policy::logicLAB::RequireSheBang](https://metacpan.org/pod/Perl%3A%3ACritic%3A%3APolicy%3A%3AlogicLAB%3A%3ARequireSheBang)
@@ -40,11 +41,16 @@ benefits:
 
 Please report issues via GitHub:
 
-- [GitHub Issues](https://github.com/jonasbn/pcll/issues)
+- [GitHub Issues](https://github.com/jonasbn/perl-critic-logiclab/issues)
 
 # AUTHOR
 
 - Jonas B., jonasbn `<jonasbn@cpan.org>`
+
+# ACKNOWLEDGEMENTS
+
+- Karen Etheridge (ETHER)
+- Neil Bowers (NEILB)
 
 # COPYRIGHT & LICENSE
 
