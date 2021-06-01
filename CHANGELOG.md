@@ -51,7 +51,7 @@
 
 - Missing tests
 
-## 0.01 2010-09-07, inital release
+## 0.01 2010-09-07, initial release
 
 - Including: [Perl::Critic::Policy::logicLAB::ProhibitUseLib](https://metacpan.org/pod/Perl::Critic::Policy::logicLAB::ProhibitUseLib)
 
