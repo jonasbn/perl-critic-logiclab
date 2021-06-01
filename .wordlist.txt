@@ -21,3 +21,12 @@ MakeMaker
 Zilla
 config
 CPANTS
+todo
+probot
+EditorConfig
+www
+https
+faq
+html
+sexualized
+socio
