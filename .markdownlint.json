@@ -1,4 +1,5 @@
 {
+    "root": true,
     "default": true,
     "first-line-heading": false,
     "line-length": false,
